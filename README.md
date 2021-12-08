@@ -1,16 +1,19 @@
 # WidgetKit
 
-A new Flutter project.
+Widget Kit 
 
-## Getting Started
+Widget Kit basically is a module which enables developers experience to the next level by integrating 
+easy to use widgets in there web, mobile, desktop, linux, macOS apps so for every use case in 
+development process Widget Kit will help you to boost up your whole development experience.
 
-This project is a starting point for a Flutter application.
+#Guiding Principles
 
-A few resources to get you started if this is your first Flutter project:
+# Widget Kit Setup
+- Configure Flutter & Dart In Your Local Environment 
+- Get All Packages
+- Configure main.dart File 
+- Select Your Platform 
+- Run
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
